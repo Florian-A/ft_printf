@@ -4,6 +4,32 @@ Deuxième projet de [42](https://42.fr/) dont le but est de recréer une version
 
 ---
 
+#### Utilisation :
+
+Voici la déclaration de la fonction ft_printf.
+
+```
+int printf(const char *fmt, ...)
+```
+
+#### Paramètres :
+
+- `fmt` -La chaîne qui contient le texte à écrire sur stdout. Le prototype des balises de `fmt` est le spécificateur décrit ci-dessous :
+
+| Spécificateur | Sortie |
+| --- | --- |
+| `%c`| Caractère |
+| `%s`| Chaîne de caractères |
+| `%d` ou `%i` | Entier décimal signé |
+| `%u` | Entier décimal non signé |
+| `%u` | Entier décimal non signé |
+| `%p` | Adresse du pointeur |
+| `%x` | Entier hexadécimal non signé |
+| `%X` | Entier hexadécimal non signé (lettres majuscules) |
+| `%%` | Caractère `%` |
+
+---
+
 #### Construction du projet :
 
 Arguments makefiles disponibles : `make all`, `make clean`, `make fclean`, `make re`, `make bonus`. 
