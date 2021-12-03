@@ -62,8 +62,19 @@ Arguments makefiles disponibles : `make all`, `make clean`, `make fclean`, `make
 | putx1_fd | `int	putx1_fd(int n, int fd)` |
 | putx2_fd | `int	putx2_fd(int n, int fd)` |
 
-#### Correction automatique (moulinette) :
 ---
+#### Tests automatisés :
+
+##### [printfTester](https://github.com/Tripouille/printfTester) :
+
+![](./img/printftester.png)
+
+##### [ft_printf_tester](https://github.com/paulo-santana/ft_printf_tester) :
+
+![](./img/ft_printf_tester.png)
+
+---
+#### Correction automatique (moulinette) :
 
 ![](./img/note2.png)  | ![](./img/note1.png) |
 ---|---|
