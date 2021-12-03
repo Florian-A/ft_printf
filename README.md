@@ -65,12 +65,12 @@ Arguments makefiles disponibles : `make all`, `make clean`, `make fclean`, `make
 ---
 #### Tests automatisés :
 
-##### [printfTester](https://github.com/Tripouille/printfTester) :
+| [printfTester](https://github.com/Tripouille/printfTester) | 
+| --- |
+| ![](./img/printftester.png) |
 
-![](./img/printftester.png)
-
-##### [ft_printf_tester](https://github.com/paulo-santana/ft_printf_tester) :
-
+| [ft_printf_tester](https://github.com/paulo-santana/ft_printf_tester) |
+| --- |
 ![](./img/ft_printf_tester.png)
 
 ---
