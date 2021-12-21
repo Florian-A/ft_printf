@@ -85,4 +85,6 @@ Arguments makefiles disponibles : `make all`, `make clean`, `make fclean`, `make
 | | |
 | --- | --- |
 | Moulinette | ![](./img/note1.png) |
-
+| Correcteur 1 | <img src="./img/correction1.png" /> |
+| Correcteur 2 | <img src="./img/correction2.png" /> |
+| Correcteur 3 | <img src="./img/correction3.png" /> |
