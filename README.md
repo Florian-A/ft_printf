@@ -74,7 +74,7 @@ Arguments makefiles disponibles : `make all`, `make clean`, `make fclean`, `make
 ![](./img/ft_printf_tester.png)
 
 ---
-### Correction automatique (moulinette) :
+### Correction :
 
 
 | |
