@@ -4,7 +4,7 @@ Deuxième projet de [42](https://42.fr/) dont le but est de recréer une version
 
 ---
 
-#### Utilisation :
+### Utilisation :
 
 Voici la déclaration de la fonction ft_printf.
 
@@ -12,7 +12,7 @@ Voici la déclaration de la fonction ft_printf.
 int printf(const char *fmt, ...)
 ```
 
-#### Paramètres :
+### Paramètres :
 
 - `fmt` -La chaîne qui contient le texte à écrire sur stdout. Le prototype des balises de `fmt` est le spécificateur décrit ci-dessous :
 
@@ -30,19 +30,19 @@ int printf(const char *fmt, ...)
 
 ---
 
-#### Construction du projet :
+### Construction du projet :
 
 Arguments makefiles disponibles : `make all`, `make clean`, `make fclean`, `make re`, `make bonus`. 
 
 ---
-#### Functions contenues dans cette blibliothèque :
+### Functions contenues dans cette blibliothèque :
 
-##### Majeur :
+#### Majeur :
 | Nom | Prototype |
 | --- | --- |
 | ft_printf | `int ft_printf(const char *fmt, ...)` |
 
-##### Mineurs *(utiles au fonctionnement de `ft_printf`)* :
+#### Mineurs *(utiles au fonctionnement de `ft_printf`)* :
 | Nom | Prototype |
 | --- | --- |
 | ft_calloc | `void	*ft_calloc(size_t count, size_t size)` |
@@ -63,7 +63,7 @@ Arguments makefiles disponibles : `make all`, `make clean`, `make fclean`, `make
 | putx2_fd | `int	putx2_fd(int n, int fd)` |
 
 ---
-#### Tests automatisés :
+### Tests automatisés :
 
 | [printfTester](https://github.com/Tripouille/printfTester) | 
 | --- |
@@ -74,7 +74,15 @@ Arguments makefiles disponibles : `make all`, `make clean`, `make fclean`, `make
 ![](./img/ft_printf_tester.png)
 
 ---
-#### Correction automatique (moulinette) :
+### Correction automatique (moulinette) :
 
-![](./img/note2.png)  | ![](./img/note1.png) |
----|---|
+
+| |
+| --- |
+| ![](./img/note2.png) |
+
+
+| | |
+| --- | --- |
+| Moulinette | ![](./img/note1.png) |
+
