@@ -1,4 +1,4 @@
-# printf
+# ft_printf
 
 Deuxième projet de [42](https://42.fr/) dont le but est de recréer une version simplifiée de la fonction printf. 
 
