@@ -1,4 +1,4 @@
-# ft_printf
+<h1 align="center">Printf</h1>
 
 Deuxième projet de [42](https://42.fr/) dont le but est de recréer une version simplifiée de la fonction printf. 
 
